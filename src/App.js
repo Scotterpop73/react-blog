@@ -16,6 +16,7 @@ function App() {
     { Title: "Dashboard", Component: DashboardComponent, Path: "Dashboard" },
     { Title: "Blog", Component: BlogComponent, Path: "/" }
   ]);
+  //Test
 
   return (
     <BrowserRouter>
